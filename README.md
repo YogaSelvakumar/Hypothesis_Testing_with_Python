@@ -19,6 +19,11 @@ There is **no significant difference** in mean fare amount between **card** and 
 There **is a significant difference** in mean fare amount between **card** and **cash** payments.
 
 ---
+### 📦 Dataset
+The dataset used in this project contains NYC taxi trip records (≈2GB).  
+Due to GitHub size restrictions, it is stored externally.
+
+🔗 Download dataset: https://data.cityofnewyork.us/api/views/kxp8-n2sj/rows.csv?accessType=DOWNLOAD
 
 ## 📊 Dataset Overview
 | Column | Description |
